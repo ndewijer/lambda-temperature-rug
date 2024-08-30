@@ -1,3 +1,4 @@
+# Python Distribution / packaging
 *.swp
 package-lock.json
 __pycache__
@@ -8,3 +9,6 @@ __pycache__
 # CDK asset staging directory
 .cdk.staging
 cdk.out
+
+#  Local .DS_Store directories
+*.DS_Store
