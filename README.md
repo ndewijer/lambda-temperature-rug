@@ -31,6 +31,10 @@ A script to generate the lowest and highest temperature of a given KNMI datastat
 ----------------------------------------------------------------
 ```
 
+Then, with a very persistant wife who can do these kinda things, you end up with a temperature rug!
+
+![image](rug.jpg)
+
 It can be run locally, through lambda or via an APIGateway. All of which present methods of passing variables to the script.
 
 These being:
