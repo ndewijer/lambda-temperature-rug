@@ -1,5 +1,7 @@
 # lambda-temperature-rug
 
+Collaberative project between my wife and I.
+
 A script to generate the lowest and highest temperature of a given KNMI datastation.
 
 
